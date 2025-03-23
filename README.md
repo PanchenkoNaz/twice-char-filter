@@ -22,7 +22,7 @@ Spaces are not counted when counting characters.
 node index.js
 ```
 
-Inputs:
+Input:
 
 ```bash
 asdf
