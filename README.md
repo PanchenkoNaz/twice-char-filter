@@ -23,6 +23,8 @@ node index.js
 ```
 
 Inputs:
+
+```bash
 asdf
 fdas
 asds
@@ -31,9 +33,13 @@ dfaa
 aaaa
 aabb
 aaabb
+```
 
 Output:
+
+```bash
 asds
 dfaa
 aabb
 aaabb
+```
