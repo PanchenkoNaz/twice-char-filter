@@ -21,3 +21,19 @@ Spaces are not counted when counting characters.
 ```bash
 node index.js
 ```
+
+Inputs:
+asdf
+fdas
+asds
+d fm
+dfaa
+aaaa
+aabb
+aaabb
+
+Output:
+asds
+dfaa
+aabb
+aaabb
