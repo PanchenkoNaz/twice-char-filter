@@ -8,7 +8,7 @@ const rl = readline.createInterface({
 });
 
 // Обробляємо кожен введений рядок
-rl.on('line', function(line) {
+rl.on('line', function (line) {
   const charCount = {};
 
   // Підраховуємо кількість кожного символу, крім пробілів
